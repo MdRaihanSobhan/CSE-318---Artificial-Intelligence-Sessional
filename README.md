@@ -7,7 +7,7 @@
     - GRASP (Greedy Randomized Adaptive Search Procedure)
     - Decision Tree Learning Algorithm (ID-3)
 
-Have a glance at the [`course outline`](/CSE318-plan-publish.pdf)
+Take a look at the [`course outline`](/CSE318-plan-publish.pdf)
 
 ## Offline Assignments:
 - Week-1-2 | Offline 1 | [A* Search](/1.%20A*%20Search%20|%20N%20puzzle/)
