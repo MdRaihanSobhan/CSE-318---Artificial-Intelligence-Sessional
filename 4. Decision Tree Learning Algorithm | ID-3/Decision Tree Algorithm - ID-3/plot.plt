@@ -1,5 +1,6 @@
 set terminal pdf
 set output "graph.pdf"
+set datafile separator ","
 
 set title "Graph (Training Data Percentage vs Mean Accuracy"
 set xlabel "Training Data Percentage"
